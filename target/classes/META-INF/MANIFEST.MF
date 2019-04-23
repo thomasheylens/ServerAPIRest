@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ESEO_API_Rest_2019
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: thomas
+Implementation-Vendor-Id: com
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/ESEO_API_Res
+ t_2019/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
